@@ -6,4 +6,4 @@ Web platform that analyzes job market trends, salaries, and skill demand using r
 
 
 Check out here:
-🔗 [Jobportalzz]([https://app.netlify.com/sites/jobportalzz/overview])
+🔗 [Jobportalzz](https://app.netlify.com/sites/jobportalzz/overview)
